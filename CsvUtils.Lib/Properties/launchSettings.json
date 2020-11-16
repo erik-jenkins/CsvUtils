@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CsvUtils.Lib": {
+      "commandName": "Project"
+    },
+    "CsvUtils.App": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\erikj\\Projects\\dotnet\\CsvUtils\\CsvUtils.App",
+      "nativeDebugging": false
+    }
+  }
+}

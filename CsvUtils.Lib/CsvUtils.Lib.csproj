@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>9</LangVersion>
+    <RootNamespace>CsvUtils.Lib</RootNamespace>
+    <PackageId>CsvUtils</PackageId>
+    <Title>CsvUtils</Title>
+    <Authors>Erik Jenkins</Authors>
+    <Description>Contains utilities for working with CSV files</Description>
+  </PropertyGroup>
+
+</Project>
